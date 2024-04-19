@@ -32,7 +32,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.0",
     "tinycolor2": "^1.4.1",
-    "typescript": "~3.8.3",
+    "typescript": "~3.9.10",
     "ua-parser-js": "^0.7.21",
     "uuid": "^3.4.0"
   },
